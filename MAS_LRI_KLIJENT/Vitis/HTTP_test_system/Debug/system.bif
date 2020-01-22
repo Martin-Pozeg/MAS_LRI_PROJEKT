@@ -1,0 +1,7 @@
+/*b_d_wrapper*/
+the_ROM_image:
+{
+ [bootloader] <b_d_wrapper/boot/fsbl.elf>
+ <bitstream>
+ <elf,ps7_cortexa9_0>
+}

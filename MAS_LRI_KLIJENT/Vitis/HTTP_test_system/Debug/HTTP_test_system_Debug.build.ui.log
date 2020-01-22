@@ -1,0 +1,10 @@
+2020-01-22T17:41:52.233497400255-17:41:52 **** Incremental Build of configuration Debug for project HTTP_test_system ****
+000-make all 
+000-Generating bif file for the system project
+000-generate_system_bif.bat 61102 D:/VitisWorkspace/b_d_wrapper/export/b_d_wrapper/b_d_wrapper.xpfm standalone_domain D:/VitisWorkspace/HTTP_test_system/Debug/system.bif
+000-sdcard_gen --xpfm D:/VitisWorkspace/b_d_wrapper/export/b_d_wrapper/b_d_wrapper.xpfm --sys_config b_d_wrapper --bif D:/VitisWorkspace/HTTP_test_system/Debug/system.bif --bitstream D:/VitisWorkspace/HTTP_test/_ide/bitstream/b_d_wrapper.bit --elf D:/VitisWorkspace/HTTP_test/Debug/HTTP_test.elf,ps7_cortexa9_0
+000-creating BOOT.BIN using D:/VitisWorkspace/HTTP_test/_ide/bitstream/b_d_wrapper.bit
+000-Running D:/Xilinx/Vitis/2019.2/bin/bootgen  -image D:/VitisWorkspace/HTTP_test_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+00255-
+17:41:59 Build Finished (took 7s.99ms)
+

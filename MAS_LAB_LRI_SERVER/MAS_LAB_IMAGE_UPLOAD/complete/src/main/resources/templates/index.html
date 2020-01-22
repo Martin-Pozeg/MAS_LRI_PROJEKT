@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en", xmlns:th="https://www.thymeleaf.org">
+
+<head>
+	<title>Main</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+
+<nav>
+	<div id="logo">
+		<img src="Kamerica1.png" object-fit="scale-down">
+	</div>
+
+	<hr>
+
+	<div id="text">
+		Last 5 pictures:<br><br>
+	</div>
+
+	<div class="side">
+		<img th:src="${files[1]}"/>
+	</div>
+
+
+
+	<div><br></div>
+
+	<div class="side">
+		<img th:src="${files[2]}"/>
+	</div>
+
+	<div><br></div>
+
+	<div class="side">
+		<img th:src="${files[3]}"/>
+	</div>
+
+	<div><br></div>
+
+	<div class="side">
+		<img th:src="${files[4]}"/>
+	</div>
+
+	<div><br></div>
+
+	<div class="side">
+		<img th:src="${files[5]}"/>
+	</div>
+
+</nav>
+
+<div class="fields" align="center">
+	<br><br><br><br><br><br><br>
+	<div id="imgFrame">
+		<img th:src="${files[0]}"/><br>
+	</div>
+
+	<br><br><br>
+	<button onClick="window.location.href=window.location.href">Refresh</button><br>
+
+	<p>Last refreshed: <span id="datetime"></span></p><br>
+	<script>
+		var dt = new Date();
+		document.getElementById("datetime").innerHTML = (("0"+dt.getDate()).slice(-2)) +"."+ (("0"+(dt.getMonth()+1)).slice(-2)) +"."+ (dt.getFullYear()) +". "+ (("0"+dt.getHours()).slice(-2)) +":"+ (("0"+dt.getMinutes()).slice(-2)) +":"+ (("0"+dt.getSeconds()).slice(-2));
+	</script>
+
+</div>
+
+<footer>
+	<br>
+	Credits: Ferovci
+</footer>
+
+</body>
+
+</html>

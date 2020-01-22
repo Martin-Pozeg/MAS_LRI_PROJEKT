@@ -1,0 +1,522 @@
+TRACE::2020-01-20.16:05:01::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-20.16:05:01::SCWBifWriter::hardware databse : b_d_wrapper_15
+TRACE::2020-01-20.16:05:01::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-20.16:05:01::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-20.16:05:01::SCWBifWriter::proc type : 
+TRACE::2020-01-20.16:05:01::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-20.16:05:01::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-20.16:05:01::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-20.16:05:01::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-20.16:05:21::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-20.16:05:21::SCWBifWriter::hardware databse : b_d_wrapper_15
+TRACE::2020-01-20.16:05:21::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-20.16:05:21::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-20.16:05:22::SCWBifWriter::proc type : 
+TRACE::2020-01-20.16:05:22::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-20.16:05:22::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-20.16:05:22::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-20.16:05:22::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.11:21:51::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.11:21:51::SCWBifWriter::hardware databse : b_d_wrapper
+TRACE::2020-01-22.11:21:51::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.11:21:51::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.11:21:51::SCWBifWriter::proc type : 
+TRACE::2020-01-22.11:21:51::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.11:21:51::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.11:21:51::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.11:21:51::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.11:27:45::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.11:27:45::SCWBifWriter::hardware databse : b_d_wrapper
+TRACE::2020-01-22.11:27:45::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.11:27:45::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.11:27:45::SCWBifWriter::proc type : 
+TRACE::2020-01-22.11:27:45::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.11:27:45::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.11:27:45::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.11:27:45::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.11:35:50::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.11:35:50::SCWBifWriter::hardware databse : b_d_wrapper_0
+TRACE::2020-01-22.11:35:50::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.11:35:50::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.11:35:50::SCWBifWriter::proc type : 
+TRACE::2020-01-22.11:35:50::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.11:35:50::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.11:35:50::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.11:35:50::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.11:37:31::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.11:37:31::SCWBifWriter::hardware databse : b_d_wrapper_0
+TRACE::2020-01-22.11:37:31::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.11:37:31::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.11:37:31::SCWBifWriter::proc type : 
+TRACE::2020-01-22.11:37:31::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.11:37:31::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.11:37:31::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.11:37:31::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.12:27:10::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.12:27:10::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.12:27:10::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.12:27:10::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.12:27:10::SCWBifWriter::proc type : 
+TRACE::2020-01-22.12:27:10::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.12:27:10::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.12:27:10::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.12:27:10::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.12:27:37::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.12:27:37::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.12:27:37::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.12:27:37::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.12:27:37::SCWBifWriter::proc type : 
+TRACE::2020-01-22.12:27:37::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.12:27:37::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.12:27:37::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.12:27:37::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.12:28:55::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.12:28:56::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.12:28:56::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.12:28:56::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.12:28:56::SCWBifWriter::proc type : 
+TRACE::2020-01-22.12:28:56::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.12:28:56::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.12:28:56::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.12:28:56::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.12:30:31::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.12:30:32::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.12:30:32::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.12:30:32::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.12:30:32::SCWBifWriter::proc type : 
+TRACE::2020-01-22.12:30:32::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.12:30:32::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.12:30:32::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.12:30:32::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:15:15::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:15:15::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:15:15::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:15:15::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:15:15::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:15:15::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:15:15::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:15:15::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:15:15::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:16:13::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:16:13::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:16:13::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:16:13::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:16:13::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:16:13::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:16:13::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:16:13::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:16:13::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:16:25::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:16:25::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:16:25::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:16:25::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:16:25::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:16:25::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:16:25::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:16:25::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:16:25::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:16:48::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:16:48::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:16:48::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:16:48::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:16:48::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:16:48::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:16:48::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:16:48::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:16:48::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:18:05::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:18:05::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:18:05::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:18:05::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:18:05::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:18:05::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:18:06::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:18:06::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:18:06::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:22:46::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:22:46::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:22:46::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:22:46::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:22:46::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:22:46::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:22:46::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:22:46::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:22:46::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:23:52::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:23:53::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:23:53::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:23:53::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:23:53::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:23:53::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:23:53::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:23:53::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:23:53::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:25:13::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:25:13::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:25:13::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:25:13::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:25:13::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:25:13::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:25:13::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:25:13::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:25:13::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:28:55::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:28:55::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:28:55::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:28:55::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:28:55::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:28:55::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:28:55::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:28:55::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:28:55::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:30:04::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:30:04::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:30:04::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:30:04::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:30:04::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:30:04::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:30:04::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:30:04::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:30:04::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:31:57::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:31:57::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:31:57::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:31:57::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:31:57::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:31:57::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:31:57::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:31:57::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:31:57::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:32:30::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:32:30::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:32:30::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:32:30::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:32:30::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:32:30::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:32:30::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:32:30::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:32:30::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:32:47::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:32:47::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:32:47::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:32:47::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:32:47::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:32:47::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:32:47::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:32:47::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:32:47::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:33:20::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:33:20::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:33:20::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:33:20::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:33:20::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:33:20::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:33:20::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:33:20::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:33:20::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:35:45::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:35:45::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:35:45::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:35:45::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:35:45::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:35:45::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:35:45::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:35:45::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:35:45::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:41:54::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:41:54::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:41:54::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:41:54::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:41:54::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:41:54::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:41:54::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:41:54::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:41:54::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:42:10::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:42:10::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:42:10::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:42:10::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:42:10::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:42:10::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:42:10::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:42:10::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:42:10::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:42:42::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:42:42::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:42:42::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:42:42::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:42:42::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:42:42::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:42:42::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:42:42::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:42:42::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:42:58::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:42:58::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:42:58::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:42:58::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:42:58::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:42:58::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:42:58::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:42:58::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:42:58::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:45:24::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:45:24::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:45:24::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:45:24::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:45:24::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:45:24::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:45:24::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:45:24::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:45:24::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.13:45:41::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.13:45:42::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.13:45:42::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.13:45:42::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.13:45:42::SCWBifWriter::proc type : 
+TRACE::2020-01-22.13:45:42::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.13:45:42::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.13:45:42::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.13:45:42::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.14:45:08::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.14:45:08::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.14:45:08::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.14:45:08::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.14:45:08::SCWBifWriter::proc type : 
+TRACE::2020-01-22.14:45:08::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.14:45:08::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.14:45:08::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.14:45:08::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.14:45:42::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.14:45:42::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.14:45:42::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.14:45:42::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.14:45:42::SCWBifWriter::proc type : 
+TRACE::2020-01-22.14:45:42::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.14:45:42::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.14:45:43::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.14:45:43::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.16:01:43::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.16:01:43::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.16:01:43::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.16:01:43::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.16:01:43::SCWBifWriter::proc type : 
+TRACE::2020-01-22.16:01:43::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.16:01:43::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.16:01:43::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.16:01:43::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.16:03:15::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.16:03:15::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.16:03:15::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.16:03:15::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.16:03:15::SCWBifWriter::proc type : 
+TRACE::2020-01-22.16:03:15::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.16:03:15::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.16:03:15::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.16:03:15::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.16:03:38::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.16:03:39::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.16:03:39::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.16:03:39::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.16:03:39::SCWBifWriter::proc type : 
+TRACE::2020-01-22.16:03:39::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.16:03:39::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.16:03:39::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.16:03:39::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.16:04:07::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.16:04:07::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.16:04:07::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.16:04:07::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.16:04:07::SCWBifWriter::proc type : 
+TRACE::2020-01-22.16:04:07::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.16:04:07::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.16:04:07::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.16:04:07::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.16:05:00::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.16:05:00::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.16:05:00::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.16:05:00::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.16:05:00::SCWBifWriter::proc type : 
+TRACE::2020-01-22.16:05:00::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.16:05:00::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.16:05:00::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.16:05:00::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.16:05:24::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.16:05:24::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.16:05:24::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.16:05:24::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.16:05:24::SCWBifWriter::proc type : 
+TRACE::2020-01-22.16:05:24::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.16:05:24::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.16:05:24::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.16:05:24::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.16:05:52::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.16:05:52::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.16:05:52::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.16:05:52::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.16:05:52::SCWBifWriter::proc type : 
+TRACE::2020-01-22.16:05:52::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.16:05:52::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.16:05:52::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.16:05:52::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.16:11:32::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.16:11:32::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.16:11:32::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.16:11:32::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.16:11:32::SCWBifWriter::proc type : 
+TRACE::2020-01-22.16:11:32::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.16:11:32::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.16:11:32::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.16:11:32::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.16:11:43::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.16:11:43::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.16:11:43::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.16:11:43::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.16:11:43::SCWBifWriter::proc type : 
+TRACE::2020-01-22.16:11:43::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.16:11:43::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.16:11:43::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.16:11:43::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.16:11:56::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.16:11:56::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.16:11:56::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.16:11:56::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.16:11:56::SCWBifWriter::proc type : 
+TRACE::2020-01-22.16:11:57::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.16:11:57::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.16:11:57::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.16:11:57::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.16:12:23::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.16:12:24::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.16:12:24::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.16:12:24::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.16:12:24::SCWBifWriter::proc type : 
+TRACE::2020-01-22.16:12:24::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.16:12:24::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.16:12:24::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.16:12:24::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.16:13:46::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.16:13:46::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.16:13:46::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.16:13:46::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.16:13:46::SCWBifWriter::proc type : 
+TRACE::2020-01-22.16:13:46::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.16:13:46::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.16:13:46::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.16:13:46::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.16:16:11::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.16:16:11::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.16:16:11::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.16:16:11::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.16:16:11::SCWBifWriter::proc type : 
+TRACE::2020-01-22.16:16:11::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.16:16:11::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.16:16:11::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.16:16:11::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.16:16:25::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.16:16:25::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.16:16:25::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.16:16:25::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.16:16:25::SCWBifWriter::proc type : 
+TRACE::2020-01-22.16:16:25::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.16:16:25::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.16:16:25::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.16:16:25::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.19:05:57::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.19:05:57::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.19:05:57::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.19:05:57::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.19:05:57::SCWBifWriter::proc type : 
+TRACE::2020-01-22.19:05:57::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.19:05:57::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.19:05:57::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.19:05:57::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.19:06:17::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.19:06:17::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.19:06:17::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.19:06:17::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.19:06:17::SCWBifWriter::proc type : 
+TRACE::2020-01-22.19:06:17::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.19:06:17::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.19:06:17::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.19:06:17::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.19:07:57::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.19:07:57::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.19:07:57::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.19:07:57::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.19:07:57::SCWBifWriter::proc type : 
+TRACE::2020-01-22.19:07:57::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.19:07:57::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.19:07:57::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.19:07:57::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.19:08:13::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.19:08:13::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.19:08:13::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.19:08:13::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.19:08:13::SCWBifWriter::proc type : 
+TRACE::2020-01-22.19:08:13::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.19:08:13::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.19:08:13::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.19:08:13::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.19:10:35::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.19:10:36::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.19:10:36::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.19:10:36::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.19:10:36::SCWBifWriter::proc type : 
+TRACE::2020-01-22.19:10:36::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.19:10:36::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.19:10:36::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.19:10:36::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.19:11:58::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.19:11:58::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.19:11:58::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.19:11:58::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.19:11:58::SCWBifWriter::proc type : 
+TRACE::2020-01-22.19:11:58::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.19:11:58::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.19:11:58::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.19:11:58::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.19:13:19::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.19:13:20::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.19:13:20::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.19:13:20::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.19:13:20::SCWBifWriter::proc type : 
+TRACE::2020-01-22.19:13:20::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.19:13:20::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.19:13:20::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.19:13:20::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.19:13:31::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.19:13:31::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.19:13:31::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.19:13:31::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.19:13:31::SCWBifWriter::proc type : 
+TRACE::2020-01-22.19:13:31::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.19:13:31::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.19:13:31::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.19:13:31::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.19:17:46::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.19:17:46::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.19:17:46::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.19:17:46::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.19:17:46::SCWBifWriter::proc type : 
+TRACE::2020-01-22.19:17:46::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.19:17:46::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.19:17:46::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.19:17:46::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.19:18:13::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.19:18:13::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.19:18:13::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.19:18:13::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.19:18:13::SCWBifWriter::proc type : 
+TRACE::2020-01-22.19:18:13::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.19:18:13::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.19:18:13::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.19:18:13::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-01-22.19:18:37::SCWBifWriter::Found the complete platform C:/Vitis_Workspace/mas_fpga_3/export/mas_fpga_3/mas_fpga_3.xpfm
+TRACE::2020-01-22.19:18:37::SCWBifWriter::hardware databse : b_d_wrapper_4
+TRACE::2020-01-22.19:18:37::SCWBifWriter::bitstream found in the design
+TRACE::2020-01-22.19:18:37::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-01-22.19:18:37::SCWBifWriter::proc type : 
+TRACE::2020-01-22.19:18:37::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-01-22.19:18:37::SCWBifWriter::Device type is : zynq
+TRACE::2020-01-22.19:18:37::SCWBifWriter::Writing BIF to file : C:/Vitis_Workspace/mas_lri_v4_system/Debug/system.bif
+TRACE::2020-01-22.19:18:37::SCWBifWriter::Writing the Zynq Baremetal bif 
